@@ -14,6 +14,9 @@
 - https://github.com/markowanga/stweet Twitter unofficial API scraper
 - https://github.com/chris-greening/instascrape Instagram scraper
 
+## Examples:
+- https://github.com/scrapfly/scrapfly-scrapers
+
 ### Misc.
 - https://github.com/philshem/gmaps_popular_times_scraper Google maps popular times scraper
 - https://github.com/Bishalsarang/Leetcode-Questions-Scraper Leetcode scraper
