@@ -24,3 +24,7 @@
 ### Misc.
 - https://github.com/philshem/gmaps_popular_times_scraper Google maps popular times scraper
 - https://github.com/Bishalsarang/Leetcode-Questions-Scraper Leetcode scraper
+
+
+## Blogs:
+- https://crawlbase.com/blog/how-to-scrape-tiktok/
