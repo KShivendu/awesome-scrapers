@@ -17,6 +17,10 @@
 ## Examples:
 - https://github.com/scrapfly/scrapfly-scrapers
 
+## Services:
+- https://serper.dev
+- https://dataforseo.com/apis
+
 ### Misc.
 - https://github.com/philshem/gmaps_popular_times_scraper Google maps popular times scraper
 - https://github.com/Bishalsarang/Leetcode-Questions-Scraper Leetcode scraper
