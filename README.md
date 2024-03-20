@@ -13,6 +13,7 @@
 - https://github.com/josephlimtech/linkedin-profile-scraper-api
 - https://github.com/markowanga/stweet Twitter unofficial API scraper
 - https://github.com/chris-greening/instascrape Instagram scraper
+- https://github.com/omkarcloud/google-maps-scraper
 
 ## Examples:
 - https://github.com/scrapfly/scrapfly-scrapers
